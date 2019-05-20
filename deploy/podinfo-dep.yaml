@@ -22,7 +22,7 @@ spec:
       containers:
       - name: podinfod
        # image: quay.io/stefanprodan/podinfo:1.5.1
-        image: quay.io/repository/brice/metrics-demo
+        image: quay.io/repository/brice/metrics-demo:latest
         command:
         - ./podinfo
         - --port=9898
