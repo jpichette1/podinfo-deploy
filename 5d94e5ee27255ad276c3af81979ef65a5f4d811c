@@ -1,0 +1,1 @@
+{"jobID":"f452d1a2-b462-ab94-ce3f-4e2725c7c1ab","spec":{"type":"policy","cause":{"Message":"","User":"Joe Pichette \u003cjoe@aspenmesh.io\u003e"},"spec":{"dev:deployment/podinfo":{"add":null,"remove":{"automated":"true"}}}},"result":null}
