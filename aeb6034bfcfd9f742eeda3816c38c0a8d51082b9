@@ -1,0 +1,1 @@
+{"jobID":"14208f1d-676c-3dc1-dc21-2f07bcc7971f","spec":{"type":"policy","cause":{"Message":"","User":"Joe Pichette \u003cjoe@aspenmesh.io\u003e"},"spec":{"dev:deployment/mighty-fine":{"add":{"automated":"true"},"remove":null}}},"result":null}
