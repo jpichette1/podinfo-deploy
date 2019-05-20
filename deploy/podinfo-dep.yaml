@@ -17,7 +17,8 @@ spec:
   template:
     metadata:
       labels:
-        app: podinfo
+        #app: podinfo
+        app: mighty-fine
       annotations:
         prometheus.io/scrape: 'true'
     spec:
