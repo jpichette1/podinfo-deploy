@@ -5,6 +5,8 @@ metadata:
  # name: podinfo
   name: mighty-fine
   namespace: dev
+  annotations:
+    flux.weave.works/automated: 'true'
   #annotations:
   #  flux.weave.works/tag.podinfod: glob:*
   #  flux.weave.works/automated: 'true'
