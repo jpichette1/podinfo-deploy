@@ -30,7 +30,7 @@ spec:
       #  - --port=9898
         ports:
        # - containerPort: 9898
-        - containerPort: 9898
+        - containerPort: 3000
         #readinessProbe:
         #  httpGet:
         #    path: /readyz
